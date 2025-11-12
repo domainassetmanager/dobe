@@ -152,7 +152,7 @@ const Index = () => {
           <DialogHeader>
             <DialogTitle className="text-2xl text-foreground">Get in Touch</DialogTitle>
             <DialogDescription className="text-muted-foreground">
-              Contact us to discuss acquiring Peni.com
+              Contact us to discuss acquiring the domain
             </DialogDescription>
           </DialogHeader>
           
@@ -195,7 +195,7 @@ const Index = () => {
           <div className="py-6 text-center space-y-4">
             <div className="text-5xl mb-4">🙏</div>
             <p className="text-muted-foreground leading-relaxed">
-              We appreciate your interest in Peni.com. At this time, we are only considering offers within the comparable price range shown.
+              We appreciate your interest. At this time, we are only considering offers within the comparable price range shown.
             </p>
             <p className="text-sm text-muted-foreground/80">
               Your interest is respectfully declined.
